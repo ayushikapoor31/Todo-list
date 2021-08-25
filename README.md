@@ -1,3 +1,2 @@
 # Todo-list
-This codebase contains a basic to
-Ayushi
+This codebase contains a basic task manager
